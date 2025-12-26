@@ -26,6 +26,7 @@ print(c)
 print(d)
 ```
 ## Output
+<img width="531" height="378" alt="530158286-a8ade2c3-d92c-44a8-8b2d-d5ba47d92b7a" src="https://github.com/user-attachments/assets/45ccf959-f4fa-43c2-bb98-370d58fca781" />
 
 ## Result
 expected output is achieved successfully
